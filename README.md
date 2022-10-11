@@ -1,6 +1,6 @@
 ## Repository Contents
-This repository contains the starter files for the lab scheduling lab.
-The starter files contain fictional student schedules with the format of
+This repository contains files supporting exam scheduling
+Sutdent files should be formatted as:
 ```
 student-name
 class1
