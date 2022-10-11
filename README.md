@@ -1,6 +1,5 @@
 ## Repository Contents
-This repository contains files supporting exam scheduling
-Sutdent files should be formatted as:
+Student input files should be .txt and formatted as:
 ```
 student-name
 class1
