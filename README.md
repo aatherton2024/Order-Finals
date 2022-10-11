@@ -22,8 +22,8 @@ See main method comments for more details:
 
 To print out slots and the course catalog alphabetized with exam slot #'s and
 enrolled students:
-$  java ExamScheduler < filename
+$  java SetFinals < filename
 
 To print out slots and the highest and lowest random solutions:
-$  java ExamScheduler #tests < filename
+$  java SetFinals #tests < filename
 Where #tests is a positive integer
