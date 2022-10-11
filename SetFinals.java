@@ -6,13 +6,6 @@ import java.util.Random;
 * Class to schedule finals times of students so that no student has multiple
 * finals scheduled for the same time slot. Additionally, the number of slots of
 * finals offered is as small as possible (given first selected course).
-* Currently we have implemented the first bonus problem in which the courses
-* are printed in alphabetical order. The courses are printed with their time
-* slot and their enrolled students. We have also implemented the random
-* optimization portion of the lab; using our printRandomSolution method, the
-* user can specify the number of tests wanted to try to find random optimal
-* solution. Calling this method print out the lowest solution found in testing
-* and the highest solution found in testing.
 */
 public class SetFinals {
 
